@@ -67,7 +67,6 @@ import type { StorageContextType } from './storage';
 
 import './style/root.css';
 import './style/markdown.css';
-import './style/deprecation.css';
 
 export {
   // editor
